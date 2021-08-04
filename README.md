@@ -94,6 +94,7 @@ Atacar: Espaço
 
 Magia: Enter
 
+---
 
 # Pré-Requisitos 
   
