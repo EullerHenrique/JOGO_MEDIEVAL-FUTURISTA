@@ -38,9 +38,10 @@
 
 ## Layout
 
-### Home
+### Jogo
 
 ![Captura de tela 2021-08-04 162350](https://user-images.githubusercontent.com/48317736/128242514-038ee61a-1e72-4400-ad99-e2099ffc26f9.png)
+
 ---
 
 ### Jogo Temático
@@ -66,6 +67,14 @@
 ![Captura de tela 2021-08-04 175427](https://user-images.githubusercontent.com/48317736/128253645-ba1bef05-2927-4052-959e-ea1747623714.png)
 
 ---
+
+### Jogo De Labirinto
+
+![Captura de tela 2021-08-04 201513](https://user-images.githubusercontent.com/48317736/128267481-7113720f-41c2-4b95-ad7e-8f8173692b47.png)
+![Captura de tela 2021-08-04 201502](https://user-images.githubusercontent.com/48317736/128267487-024b6281-33b6-4057-8b03-fea099bf440f.png)
+![Captura de tela 2021-08-04 201446](https://user-images.githubusercontent.com/48317736/128267492-925f8909-8aec-43e6-b0d0-5d395ebb513b.png)
+ 
+ ---
 
 # Pré-Requisitos 
   
