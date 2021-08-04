@@ -22,7 +22,7 @@
 - Programação Orientada a Objetos 2 [BSI-UFU]
   - Professor: Fábio Azevedo Dorça
  
-## [UML Do Projeto](https://github.com/EullerHenrique/JOGO_MEDIEVAL-JOGO_FUTURISTA/blob/master/UML.pdf)
+## [UML](https://github.com/EullerHenrique/JOGO_MEDIEVAL-JOGO_FUTURISTA/blob/master/UML.pdf)
 
 ## Aprendizados 
 
