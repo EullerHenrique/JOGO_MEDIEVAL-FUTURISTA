@@ -75,14 +75,23 @@
 ![Captura de tela 2021-08-04 201446](https://user-images.githubusercontent.com/48317736/128267492-925f8909-8aec-43e6-b0d0-5d395ebb513b.png)
  
  ---
+ 
+#Comandos
+
+Mover para baixo: Seta para baixo
+Mover para cima: Seta para cima
+Mover para esquerda: Seta para esquerda
+Mover para direita: Seta para direita
+
+Mover rapidamente para a esquerda: L
+Mover rapidamente para a direita: R
+
+Atacar: Espaço
+Magia: Enter
+
 
 # Pré-Requisitos 
   
   Linux (esse projeto não está funcionando corretamente no windows)
   
-
-                        
-            
-  
-
 
