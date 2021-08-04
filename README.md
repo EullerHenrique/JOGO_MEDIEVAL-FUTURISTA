@@ -42,19 +42,31 @@
 
 ### Jogo
 
-![Captura de tela 2021-08-04 162350](https://user-images.githubusercontent.com/48317736/128242514-038ee61a-1e72-4400-ad99-e2099ffc26f9.png)
+<p align="center">
+  
+   <img src="https://user-images.githubusercontent.com/48317736/128242514-038ee61a-1e72-4400-ad99-e2099ffc26f9.png">
+
+</p>
 
 ---
 
 ### Jogo Temático
 
-![Captura de tela 2021-08-04 162543](https://user-images.githubusercontent.com/48317736/128242833-488e2fe3-ef24-4764-a935-fcb5abaa6aec.png)
+<p align="center">
+  
+   <img src="https://user-images.githubusercontent.com/48317736/128242833-488e2fe3-ef24-4764-a935-fcb5abaa6aec.png">
+
+</p>
 
 ---
 
 ### Construção do personagem
 
-![Captura de tela 2021-08-04 162749](https://user-images.githubusercontent.com/48317736/128242989-c6dc0910-ba16-4ed5-8103-dc741acc0d71.png)
+<p align="center">
+  
+   <img src="https://user-images.githubusercontent.com/48317736/128242989-c6dc0910-ba16-4ed5-8103-dc741acc0d71.png">
+
+</p>
 
 ---
 
@@ -72,10 +84,14 @@
 
 ### Jogo De Labirinto
 
-![Captura de tela 2021-08-04 201513](https://user-images.githubusercontent.com/48317736/128267481-7113720f-41c2-4b95-ad7e-8f8173692b47.png)
-![Captura de tela 2021-08-04 201502](https://user-images.githubusercontent.com/48317736/128267487-024b6281-33b6-4057-8b03-fea099bf440f.png)
-![Captura de tela 2021-08-04 201446](https://user-images.githubusercontent.com/48317736/128267492-925f8909-8aec-43e6-b0d0-5d395ebb513b.png)
- 
+<p align="center">
+  
+   <img src="https://user-images.githubusercontent.com/48317736/128267481-7113720f-41c2-4b95-ad7e-8f8173692b47.png">
+   <img src="https://user-images.githubusercontent.com/48317736/128267487-024b6281-33b6-4057-8b03-fea099bf440f.png">
+   <img src="https://user-images.githubusercontent.com/48317736/128267492-925f8909-8aec-43e6-b0d0-5d395ebb513b.png">
+
+</p>
+
  ---
  
 # Comandos
