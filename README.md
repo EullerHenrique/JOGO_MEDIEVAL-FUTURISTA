@@ -96,21 +96,14 @@
  
 # Comandos
 
-Mover para baixo: Seta para baixo
-
-Mover para cima: Seta para cima
-
-Mover para esquerda: Seta para esquerda
-
-Mover para direita: Seta para direita
-
-Mover rapidamente para a esquerda: L
-
-Mover rapidamente para a direita: R
-
-Atacar: Espaço
-
-Magia: Enter
+- Mover para baixo: Seta para baixo
+- Mover para cima: Seta para cima
+- Mover para esquerda: Seta para esquerda
+- Mover para direita: Seta para direita
+- Mover rapidamente para a esquerda: L
+- Mover rapidamente para a direita: R
+- Ataque: Espaço
+- Ataque especial: Enter
 
 
 # Pré-Requisitos 
