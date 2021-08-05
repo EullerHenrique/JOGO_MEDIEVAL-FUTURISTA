@@ -2,14 +2,14 @@
 
 <p align="center">
   
- <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EullerHenrique/MEDIEVAL-FUTURISTA">
+ <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EullerHenrique/Medieval-Futurista">
   
- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EullerHenrique/MEDIEVAL-FUTURISTA">
+ <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EullerHenrique/Medieval-Futurista">
   
- <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EullerHenrique/MEDIEVAL-FUTURISTA">
+ <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EullerHenrique/Medieval-Futurista">
 
  <a href="https://github.com/EullerHenrique/Peixe_Urbano/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EullerHenrique/MEDIEVAL-FUTURISTA">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EullerHenrique/Medieval-Futurista">
  </a>
   
  <img alt="Github status" src="http://img.shields.io/static/v1?label=status&message=concluded&color=GREEN&style=plastic"/>
