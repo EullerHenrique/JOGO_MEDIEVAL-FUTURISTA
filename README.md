@@ -106,7 +106,7 @@
 - Ataque especial: Enter
 
 
-# Pré-Requisitos 
+# Pré-Requisito 
   
   Linux (esse projeto não está funcionando corretamente no windows)
   
