@@ -32,7 +32,7 @@
 - [Padrão Chain Of Responsabilty](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica04-Padrao-Chain-of-Responsability.pdf)
 - [Padrão Decorator](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica05-Padrao-Decorator.pdf)
 - [Padrão Simple Factory e Padrão Factory Method](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica06-Padrao-Simple-Factory-FactoryMethod.pdf)
-- [Padrão Abstract Factory](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/aenunciados/Pratica07-Padrao-Abstract-Factory.pdf)
+- [Padrão Abstract Factory](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica07-Padrao-Abstract-Factory.pdf)
 - [Padrão Composite](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica08-Padrao-Composite.pdf)
 - [Padrão Command](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica09-Padrao-Command.pdf)
 - [Multithreading](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica10-PARTE01-Multithreading.pdf)
