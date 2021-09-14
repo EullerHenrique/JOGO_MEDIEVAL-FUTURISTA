@@ -22,21 +22,21 @@
 - Programação Orientada a Objetos 2 [BSI-UFU]
   - Professor: Fábio Azevedo Dorça
  
-## [UML](https://github.com/EullerHenrique/JOGO_MEDIEVAL-JOGO_FUTURISTA/blob/master/UML.pdf)
+## [UML](https://github.com/EullerHenrique/Medieval-Futurista/blob/master/Medieval-Futurista/UML.pdf)
 
 ## Aprendizados 
 
-- [Padrão Strategy](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/enunciados/Pratica01-Padrao-Strategy.pdf)
-- [Padrão State](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/enunciados/Pratica02-Padrao-State.pdf)
-- [Padrão Observer](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/enunciados/Pratica03-Padrao-Observer.pdf)
-- [Padrão Chain Of Responsabilty](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/enunciados/Pratica04-Padrao-Chain-of-Responsability.pdf)
-- [Padrão Decorator](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/enunciados/Pratica05-Padrao-Decorator.pdf)
-- [Padrão Simple Factory e Padrão Factory Method](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/enunciados/Pratica06-Padrao-Simple-Factory-FactoryMethod.pdf)
-- [Padrão Abstract Factory](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/enunciados/Pratica07-Padrao-Abstract-Factory.pdf)
-- [Padrão Composite](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/enunciados/Pratica08-Padrao-Composite.pdf)
-- [Padrão Command](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/enunciados/Pratica09-Padrao-Command.pdf)
-- [Multithreading](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/enunciados/Pratica10-PARTE01-Multithreading.pdf)
-- [MVC e Interface Gráfica](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/enunciados/Pratica10-PARTE02-MVC-InterfaceGrafica.pdf)
+- [Padrão Strategy](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica01-Padrao-Strategy.pdf)
+- [Padrão State](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica02-Padrao-State.pdf)
+- [Padrão Observer](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica03-Padrao-Observer.pdf)
+- [Padrão Chain Of Responsabilty](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica04-Padrao-Chain-of-Responsability.pdf)
+- [Padrão Decorator](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica05-Padrao-Decorator.pdf)
+- [Padrão Simple Factory e Padrão Factory Method](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica06-Padrao-Simple-Factory-FactoryMethod.pdf)
+- [Padrão Abstract Factory](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/aenunciados/Pratica07-Padrao-Abstract-Factory.pdf)
+- [Padrão Composite](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica08-Padrao-Composite.pdf)
+- [Padrão Command](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica09-Padrao-Command.pdf)
+- [Multithreading](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica10-PARTE01-Multithreading.pdf)
+- [MVC e Interface Gráfica](https://github.com/EullerHenrique/Trabalho_De_POO2/blob/master/Medieval-Futurista/enunciados/Pratica10-PARTE02-MVC-InterfaceGrafica.pdf)
 
 ## Layout
 
