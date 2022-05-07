@@ -20,9 +20,9 @@
 ## Projeto Proveniente Da Disciplina
 
 - Programação Orientada a Objetos 2 [BSI-UFU]
-  - Professor: Fábio Azevedo Dorça
-  - Disciplina cursada entre: 08/2020 - 10/2020
-  - Nota Obtida: 100
+  - Professor : Fábio Azevedo Dorça
+  - Disciplina cursada entre : 08/2020 - 10/2020
+  - Nota Obtida : 100
  
 ## [UML](https://github.com/EullerHenrique/Medieval-Futurista/blob/master/Medieval-Futurista/UML.pdf)
 
